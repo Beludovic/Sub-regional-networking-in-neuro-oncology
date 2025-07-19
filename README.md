@@ -104,4 +104,4 @@ The main obstacles identified include:
 
 ## **Author and supervision**
 
-The project is supervised by Dr. Wilfried Dossou, _Neurosurgeon, member of the Beninese Society of Neurosurgery_, in accordance with the rules of ethics and professional conduct in research.
+The project is supervised by Dr. Wilfried Dossou, _-Neurosurgeon at the Martinique University Hospital (France), Member of the Beninese Society of Neurosurgery-_, in accordance with the rules of ethics and professional conduct in research. 
