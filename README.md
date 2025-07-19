@@ -46,3 +46,7 @@ Spectral analysis has been used to:
 * Identify the operational gradients of neuro-oncological centers;
 * Assess the presence or absence of functional consultation frameworks;
 * Examine the factors (structural and cyclical) associated with the absence of effective multidisciplinary collaboration.
+
+## **Author and supervision**
+
+The project is supervised by Dr. Wilfried Dossou, _Neurosurgeon, member of the Beninese Society of Neurosurgery_, in accordance with the rules of ethics and professional conduct in research.
