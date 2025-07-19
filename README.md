@@ -1,4 +1,6 @@
-# **Research framework**
+# **Sub-regional networking in neuro-oncology: towards a West African collaborative platform**
+
+# **_Research framework_**
 ## **Introduction**
 Central nervous system tumors pose diagnostic and therapeutic challenges because the histoprognostic criteria of the WHO classification are not always appropriate for them. In response to these challenges, medical decision-making follows a multidisciplinary approach through multidisciplinary consultation meetings. The implementation of the Multidisciplinary Consultation Meeting (MCM) primarily requires high-quality human resources, particularly specialist physicians, which affects certain regions of the world, including West Africa.
 
