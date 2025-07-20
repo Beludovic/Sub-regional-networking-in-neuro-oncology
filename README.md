@@ -8,7 +8,7 @@ Central nervous system tumors pose diagnostic and therapeutic challenges because
 
 ### **Type and framework of the study**
 
-This study is part of a **quantitative descriptive and analytical** cross-sectional approach, carried out between [insert dates if available] among neuro-oncology professionals practicing in nine countries of the ECOWAS region (Benin, Niger, Ivory Coast, Mali, Ghana, Burkina Faso, Nigeria, Senegal and Togo). The main objective was to assess professional practices, available human resources and multidisciplinary collaboration mechanisms in neuro-oncology in the sub-region.
+This study is part of a **quantitative descriptive and analytical** cross-sectional approach, carried out between February and July 2025 among neuro-oncology professionals practicing in nine countries of the ECOWAS region (Benin, Niger, Ivory Coast, Mali, Ghana, Burkina Faso, Nigeria, Senegal and Togo). The main objective was to assess professional practices, available human resources and multidisciplinary collaboration mechanisms in neuro-oncology in the sub-region.
 
 ### **Study Population**
 
